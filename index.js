@@ -9,4 +9,4 @@ for(let i = 0; i < num_linhas; i++) {
     console.log(espaco + conteudo +'x' + conteudo);
 }
 
-console.log(' '.repeat(num_linhas)+ 'x' + '\n'.repeat(4));
+console.log((' '.repeat(num_linhas)+ 'x' + '\n').repeat(4));
