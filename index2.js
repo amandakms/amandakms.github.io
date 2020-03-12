@@ -1,7 +1,7 @@
 const produtos = [
     {nome: 'coxinha', preco:'4.0'},
     {nome: 'pastel', preco:'3.0'},
-    {nome: 'suco', preco:'2.0'},
+    {nome: 'suco', preco:'2.0'}
 ];
 
 let exibirProduto = (p,i) => {
